@@ -1,6 +1,5 @@
 streamlit
 opencv-python-headless
-cmake
-dlib
+dlib-bin
 numpy
 Pillow
